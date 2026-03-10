@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.2154,53.3361]},"properties":{"PostalCode":"SK9 2TA","color":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-2.2154,53.3361]},"properties":{"PostalCode":"SK9 2TA","color":"#ff6600","marker-size":"small","marker-symbol":"circle"}}]}
