@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.11483,51.1668]},"properties":{"PostalCode":"RH6 9QA","marker-colour":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.11483,51.1668]},"properties":{"PostalCode":"RH6 9QA","color":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
