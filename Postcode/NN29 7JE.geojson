@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.6316,52.2504]},"properties":{"PostalCode":"NN29 7JE","marker-colour":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-0.6316,52.2504]},"properties":{"PostalCode":"NN29 7JE","color":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
