@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.48608,52.929]},"properties":{"PostalCode":"DE1 3HF","marker-colour":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[-1.48608,52.929]},"properties":{"PostalCode":"DE1 3HF","color":"#cac9ca","marker-size":"small","marker-symbol":"circle"}}]}
